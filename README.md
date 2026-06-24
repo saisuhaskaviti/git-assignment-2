@@ -2,13 +2,13 @@
 
 ## Setup
 
-1. Fork this repository on GitHub.
-2. Open VSCode, open a terminal, and clone **your fork**:
+DONE - 1. Fork this repository on GitHub. DONE
+DONE 2. Open VSCode, open a terminal, and clone **your fork**: DONE
 git clone <your-fork-url>
-3. Change into the repository directory:
+DONE 3. Change into the repository directory:
 cd git-assignment-2
-4. Open the `git-assignment-2` folder in VSCode.
-5. Open the `README.md` file (this file). You will edit it in VSCode.
+DONE 4. Open the `git-assignment-2` folder in VSCode.
+DONE 5. Open the `README.md` file (this file). You will edit it in VSCode.
 6. **Industry vocabulary**  
 - **origin** = your fork (`your_username/git-assignment-2`)  
 - **upstream** = my repository (`josephor1271/git-assignment-2`)
@@ -17,10 +17,10 @@ cd git-assignment-2
 
 ## Part 1 (Branching and merging within your fork)
 
-1. Create a new branch named `writing`:
+DONE 1. Create a new branch named `writing`:
 git checkout -b writing
 
-2. Check which branch you are on: \
+DONE 2. Check which branch you are on: \
 git status \
 It should say you are on branch `writing`.
 
@@ -28,7 +28,7 @@ It should say you are on branch `writing`.
 git push -u origin writing
 
 4. Make a change to the line below in this file: \
-WRITE YOUR SCHOOL + INTENDED MAJOR HERE
+SOUTH FORSYTH HIGH SCHOOL + CS MAJOR
 
 5. Add, commit, and push your changes: \
 git add README.md \
