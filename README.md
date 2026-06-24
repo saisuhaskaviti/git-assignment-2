@@ -35,19 +35,19 @@ git add README.md \
 git commit -m "Add school and intended major" \
 git push
 
-6. On GitHub, open a pull request **within your fork**:
+DONE 6.   On GitHub, open a pull request **within your fork**:
 - From: `writing`
 - To: `main`
 - Make sure you are **not** pull requesting upstream (my repository).  
   My username should not appear anywhere in the pull request.
 - It should look like: `main <- writing`
 
-7. Merge the pull request on GitHub.  
+DONE 7. Merge the pull request on GitHub.  
 (If GitHub does not let you merge, you likely pull requested upstream by mistake.)
 
-8. After merging, your `main` branch and your `writing` branch on GitHub should look identical.
+OKAY 8. After merging, your `main` branch and your `writing` branch on GitHub should look identical.
 
-9. You have now successfully used a branch and merged it into `main`.
+OKAY 9. You have now successfully used a branch and merged it into `main`.
 
 ---
 
